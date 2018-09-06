@@ -1,4 +1,4 @@
-Examples of creating a Data base and filling data in DBMS Derby
+Examples of creating a database and filling data in DBMS Derby
 
 Use the IJ console to execute scripts.
 
